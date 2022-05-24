@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TeamSport</string>
+    <string name="team_sport">Team Sport</string>
+    <string name="select_item">Select</string>
+    <string name="email_sign_in_hint">Email</string>
+    <string name="password_sign_in_hint">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="or">or</string>
+    <string name="sign_in">Sign in</string>
+    <string name="name">Name</string>
+    <string name="profile_bottom_nav">Profile</string>
+    <string name="map_bottom_nav">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_Out">Sign out</string>
+    <string name="incorrect_data_entered">Incorrect data entered</string>
+    <string name="empty_fields">Empty fields not allowed</string>
+    <string name="sport_list_bottom_nav">Sport list</string>
+    <string name="create_gathering">Create Gathering</string>
+    <string name="description">Description</string>
+    <string name="address_textView">Address</string>
+    <string name="timeAndDate_textView">Date/Time</string>
+    <string name="set_date">SET DATE</string>
+    <string name="set_time">SET TIME</string>
+    <string name="save_date">save</string>
+    <string name="paid_text">paid</string>
+    <string name="sport">Sport:</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="details">Details</string>
+    <string name="show_details">Show more details</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="coast">Coast:</string>
+    <string name="address">Address:</string>
+    <string name="save">Save</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="age">Age</string>
+    <string name="no_gatherings_yet">No gatherings yet</string>
+    <string name="unsubscribe">unsubscribe</string>
+    <string name="delete">Delete</string>
+    <string name="delete_gathering">Delete gathering?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="search">Search</string>
+    <string name="no_network_connetctio">No network connection</string>
+    <string name="refresh">Resresh</string>
+    <string name="show_more">Show more</string>
+    <string name="chat">Chat</string>
+    <string name="Chat_not_available">Chat not available now</string>
+    <string name="next">Next</string>
+    <string name="location">Location</string>
+    <string name="set_location_on_map">Set location on map</string>
+    <string name="gatherings">Gatherings</string>
+    <string name="current_gatherings">Current Gatherings</string>
+    <string name="geolocationCheck">Your GPS seems to be disabled, do you want to enable it?</string>
+
+    <string-array name="sport_list">
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Volleyball</item>
+        <item>Tennis</item>
+    </string-array>
+</resources>

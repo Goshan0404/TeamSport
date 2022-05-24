@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TeamSport</string>
+    <string name="team_sport">Team Sport</string>
+    <string name="select_item">Выбрать</string>
+    <string name="email_sign_in_hint">Почта</string>
+    <string name="password_sign_in_hint">Пароль</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="or">или</string>
+    <string name="sign_in">Войти</string>
+    <string name="name">Имя</string>
+    <string name="profile_bottom_nav">Профиль</string>
+    <string name="map_bottom_nav">Карта</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_Out">Выйти</string>
+    <string name="incorrect_data_entered">Введены неверные данные</string>
+    <string name="empty_fields">Пустые поля недоступны</string>
+    <string name="sport_list_bottom_nav">Список сборов</string>
+    <string name="gatherings">Сборы</string>
+    <string name="current_gatherings">Текущие сборы</string>
+    <string name="create_gathering">Создать сбор</string>
+    <string name="description">Описание</string>
+    <string name="address_textView">Адрес</string>
+    <string name="timeAndDate_textView">Дата/Время</string>
+    <string name="set_date">Указать дату</string>
+    <string name="set_time">Указать время</string>
+    <string name="save_date">сохранить</string>
+    <string name="paid_text">платно</string>
+    <string name="sport">Спорт:</string>
+    <string name="date">Дата:</string>
+    <string name="time">Время:</string>
+    <string name="details">Детали</string>
+    <string name="show_details">Показать больше деталей</string>
+    <string name="geolocationCheck">Кажется GPS отключон, включить его?</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="coast">Цена:</string>
+    <string name="address">Адрес:</string>
+    <string name="save">Сохранить</string>
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="age">Возраст</string>
+    <string name="no_gatherings_yet">Сборы отсутсвуют</string>
+    <string name="unsubscribe">отписаться</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_gathering">Удалить сбор?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="search">Искать</string>
+    <string name="no_network_connetctio">Нет подключения к сети</string>
+    <string name="refresh">Обновить</string>
+    <string name="show_more">Показать больше</string>
+    <string name="chat">Чат</string>
+    <string name="Chat_not_available">Чат недоступен</string>
+    <string name="next">Дальше</string>
+    <string name="location">место нахождения</string>
+    <string name="set_location_on_map">Указать место нахождения на карте</string>
+
+    <string-array name="sport_list">
+        <item>Футбол</item>
+        <item>Баскетбол</item>
+        <item>Волейбол</item>
+        <item>Тенис</item>
+    </string-array>
+</resources>
