@@ -6,4 +6,4 @@
 Для хранения данных используется Firebase. 
 
 ### Tools
-__Tools: Java, Firebase, Picasso__
+___Tools: Java, Firebase, Picasso___
